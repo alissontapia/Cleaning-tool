@@ -1034,7 +1034,7 @@ def _render_results(df: pd.DataFrame) -> None:
 # STREAMLIT UI
 # ============================================================
 
-st.title("Data ConceptOps Tool  —  V3")
+st.title("Data cleaning Tool")
 st.caption(
     "Haiku + Serper.dev  |  Layered URL validation (HEAD → GET)  "
     "|  Confidence gating  |  Ambiguity detection"
