@@ -1,4 +1,4 @@
-# ConceptOps Tool — V4
+# AliSync — Cleaningtool
 
 A Streamlit app for data cleaning, validation, and the creation of entity descriptions and rules, powered by AI.
 
